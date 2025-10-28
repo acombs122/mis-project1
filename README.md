@@ -1,10 +1,10 @@
 # mis-project1
 # Team Members
-Aidan Combs
-Joey Maitran
-Praneet Venigalla
-Cameron White
-Mariam Zaman
+1. Aidan Combs
+2. Joey Maitran
+3. Praneet Venigalla
+4. Cameron White
+5. Mariam Zaman
 # Problem Description:
 Our project models an operational database for the internal managerial workings of a system that coordinates flights, passengers, luggage, routes, and other aspects for multiple airlines. The core entity in our model is the Flight entity, which serves as the link between routes, planes, tickets, terminals, and other related entities. Each flight represents an instance of an aircraft journey, complete with flight crew staffing information, passenger and luggage lists, and the tickets issued for the flight. The system supports the storage and reporting of day-to-day operations data for airlines, allowing them to keep track of staffing, ticketing, and luggage management in one place.
 
@@ -20,6 +20,7 @@ The data model also keeps track of relevant passenger information in luggage, ti
 Airline operations are maintained through the route and flight entities. Airlines operate different routes, and each of these routes may have many flights that operate on it on a given day. Furthermore, a terminal can operate many flights at a given time, hence why terminals and flights have a 1:M relationship.
 
 Overall, the various entities and attributes that the data model captures provide an overarching view of the inner workings of an airline and its day-to-day operations to support efficient and effective managers.
+<img width="1373" height="970" alt="final final png airline" src="https://github.com/user-attachments/assets/75db4623-e339-4939-9dd3-61025a8e2e82" />
 
 
 # Data Dictionary
@@ -40,6 +41,14 @@ Overall, the various entities and attributes that the data model captures provid
 <img width="1034" height="832" alt="image" src="https://github.com/user-attachments/assets/b60621af-c586-41ae-8982-b02eb797179f" />
 
 
-
-
 # Queries
+
+
+
+
+
+
+
+
+
+
