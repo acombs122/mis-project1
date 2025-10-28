@@ -87,7 +87,7 @@ Some airports have airlines that have a specific terminal (such as the Delta typ
 
 Aircrafts only have a certain amount of seats and have a max capacity, and this data allows airlines to see how full a flight is in order to manage that. Knowing the occupancy rate is important for managers to know and understand to implement efficiency measures. This data gives insight on flight demand, seat pricing, scheduling, and more. If a flight is over 100%, then it is overbooked. This would mean there are errors with an airline's operations and they need to be more efficient.
 
-6. Query 6: Outputs all of the flights that left a certain airport on a specific date in order to check where a luggage bag may have gone.
+6. Query 6: Outputs all of the flights that left a certain airport on a specific month in order to check where a luggage bag may have gone.
 
 <img width="437" height="514" alt="image" src="https://github.com/user-attachments/assets/4ab25c1d-72b2-45ef-93ff-27d714ee873d" />
 
@@ -120,5 +120,6 @@ This query will help airline companies identify the busiest terminals at an airp
 
 # Database Information
 Name of the database: ns_F25MIST4610_15058_Group3
+Call Functions: call tp_q#(). use this format to call our functions, changing the number at the end respectively.
 
 
