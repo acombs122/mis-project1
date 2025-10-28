@@ -1,5 +1,10 @@
 # mis-project1
-
+# Team Members
+Aidan Combs
+Joey Maitran
+Praneet Venigalla
+Cameron White
+Mariam Zaman
 # Problem Description:
 Our project models an operational database for the internal managerial workings of a system that coordinates flights, passengers, luggage, routes, and other aspects for multiple airlines. The core entity in our model is the Flight entity, which serves as the link between routes, planes, tickets, terminals, and other related entities. Each flight represents an instance of an aircraft journey, complete with flight crew staffing information, passenger and luggage lists, and the tickets issued for the flight. The system supports the storage and reporting of day-to-day operations data for airlines, allowing them to keep track of staffing, ticketing, and luggage management in one place.
 
