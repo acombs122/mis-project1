@@ -57,44 +57,64 @@ Flight:
 
 
 # Queries
-Query 1: Lists out all possible roles for an employee and calculates the average salary for each respective role.
+1. Query 1: Lists out all possible roles for an employee and calculates the average salary for each respective role.
+
 <img width="397" height="455" alt="image" src="https://github.com/user-attachments/assets/3891ba25-dc45-4bb6-a1f4-d2194a8ab152" />
+
 This query will provide airlines necessary data in order to manage salary and uphold industry standards. The average salary for an employee role at an airline could be compared to the national average to see where a company stands financially. This data could also be compared to other years in order to identify trends in payments. This could also help with budgeting and managing expenses.
 
-Query 2: Lists out how many pilots and copilots are employed by each airline company.
+2. Query 2: Lists out how many pilots and copilots are employed by each airline company.
+   
 <img width="559" height="415" alt="image" src="https://github.com/user-attachments/assets/2b6777f5-725d-40dc-9d9a-e62fca4e6f69" />
+
 This query provides valuable data about an airline’s staff and will help them make certain staffing decisions. Pilots and copilots are essential in flight operations and need to be balanced for the size of an airline. Understaffing will limit how many flights a company can operate, which would lead to a loss in revenue, while overstaffing would lead to unnecessary costs, especially with high-salary employees like pilots and copilots. An airline company needs to avoid both of these issues.
 
-Query 3: Outputs the number of passengers that boarded a flight with no luggage.
+3. Query 3: Outputs the number of passengers that boarded a flight with no luggage.
+   
 <img width="683" height="707" alt="image" src="https://github.com/user-attachments/assets/68e69c87-203b-441b-8596-8426ad6c119f" />
+
 This is important for airlines to know, as it gives data on travel habits and preferences. It will also allow companies to manage cabin space and baggage handling and fees.
 
-Query 4: Outputs the number of flights for an airline that does not have a specific terminal at an airport.
+4. Query 4: Outputs the number of flights for an airline that does not have a specific terminal at an airport.
+
 <img width="621" height="433" alt="image" src="https://github.com/user-attachments/assets/1a77cd0b-88aa-4d1e-8af1-303834c8edb9" />
+
 Some airports have airlines that have a specific terminal (such as the Delta typically), whereas other airline companies are not contracted and will go to the terminal decided by an airline. The data from this query will be helpful to both airline companies and airports. Airports will be able to see how many flights an airline has and distribute them to their terminals accordingly. This will help in the distribution of all flights to avoid overcrowding and controlling staffing and foot traffic. As for airlines, they can use this data to request specific terminals and enhance performance.
 
-Query 5: Outputs the name of the airline, and the percentage of how full a flight is.
+5. Query 5: Outputs the name of the airline, and the percentage of how full a flight is.
+   
 <img width="833" height="709" alt="image" src="https://github.com/user-attachments/assets/578e5af9-1229-4df1-852b-2382db7f5eda" />
+
 Aircrafts only have a certain amount of seats and have a max capacity, and this data allows airlines to see how full a flight is in order to manage that. Knowing the occupancy rate is important for managers to know and understand to implement efficiency measures. This data gives insight on flight demand, seat pricing, scheduling, and more. If a flight is over 100%, then it is overbooked. This would mean there are errors with an airline's operations and they need to be more efficient.
 
-Query 6: Outputs all of the flights that left a certain airport on a specific date in order to check where a luggage bag may have gone.
+6. Query 6: Outputs all of the flights that left a certain airport on a specific date in order to check where a luggage bag may have gone.
+
 <img width="437" height="514" alt="image" src="https://github.com/user-attachments/assets/4ab25c1d-72b2-45ef-93ff-27d714ee873d" />
+
 In order to find lost luggage, airlines can use data from this query to track down lost luggage and investigate bags. This will help operations run smoothly and increase customer satisfaction when luggage issues occur.
 
-Query 7: Lists all airlines and the number of flights they have handled in the past 3 months
+7. Query 7: Lists all airlines and the number of flights they have handled in the past 3 months
+
 <img width="606" height="555" alt="image" src="https://github.com/user-attachments/assets/26d9c325-1a57-4104-b58e-e0c19c88bec8" />
+
 This query provides invaluable data for an airline company. It will allow airlines and airports to monitor performance over a period of three months. This data can be analyzed in order to view spikes in flight activity, which will affect decision making regarding staffing, price, sales, etc. This information will also help an airline see its success and create visualizations about their activity. If archived, this data will be useful in the future to create predictions based on past and current flight numbers.
 
-Query 8: Outputs the flight crew that has the most combined salary. This flight crew is made up of several employees.
+8.Query 8: Outputs the flight crew that has the most combined salary. This flight crew is made up of several employees.
+
 <img width="670" height="543" alt="image" src="https://github.com/user-attachments/assets/522df7a9-5a07-45cd-9a25-c1ef51118d25" />
+
 Airline companies need to know which employee teams have the highest salary in order to manage budget and payroll. High-salary teams may be more experienced, and could be put on longer/harder flights. This could also be used for training decisions, where an experienced, highly-paid team could teach others.
 
-Query 9: Lists out all of the customers in the Platinum tier that have more than the average amount of points in that tier.
+9. Query 9: Lists out all of the customers in the Platinum tier that have more than the average amount of points in that tier.
+    
 <img width="794" height="698" alt="image" src="https://github.com/user-attachments/assets/021da2d6-6e38-4445-8d2d-23bf725a8fe9" />
+
 Loyalty rewards programs are a great way for customer retention and acquisition. This information will be valuable for the marketing department of an airline. This data can test the effectiveness of the loyalty program as a whole. Airlines can also use this data for targeted discounts and ads and identify their most loyal customers.
 
-Query 10: Outputs the name of the terminal that has had the most ticket sales of all time.
+10. Query 10: Outputs the name of the terminal that has had the most ticket sales of all time.
+    
 <img width="838" height="568" alt="image" src="https://github.com/user-attachments/assets/f828e560-71b8-459f-8ea6-7dd0bdf3acd1" />
+
 This query will help airline companies identify the busiest terminals at an airport. With this data, companies will be able to identify the busiest terminals and use resources accordingly. Extra staff may be placed and busy terminals and foot traffic control will be considered.
 
 
